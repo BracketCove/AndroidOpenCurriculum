@@ -1,7 +1,7 @@
 # Android Open Curriculum (Beta)
 
 ### Table of Contents
-**[Part 1: Preliminaries](Preliminaries.md)**<br>
+**[Part 1: Preliminaries](curriculum-en/one/one_one/Preliminaries.md)**<br>
 **[Part 2: Android Project And Application Structure](DirectoryOverview.md)**<br>
 **[Part 3: In Progress]()**<br>
 **[Part 4: In Progress]()**<br>
