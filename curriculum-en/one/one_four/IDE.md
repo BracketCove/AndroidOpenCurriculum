@@ -18,5 +18,5 @@ Android Studio provides an extensive suite of tools for developing Android Appli
 * Logging and Performance tracking tools
 * Multi-stage compilation process to support mixed Kotlin/Java sources
 
-**[Previous Lesson](XML.md)**<br>
-**[Next Lesson](DevicesAndEmulators.md)**<br>
+**[Previous Lesson](curriculum-en/one/one_three/XML.md)**<br>
+**[Next Lesson](curriculum-en/one/one_five/DevicesAndEmulators.md)**<br>

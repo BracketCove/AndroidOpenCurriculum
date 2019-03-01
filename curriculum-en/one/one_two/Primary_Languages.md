@@ -43,5 +43,5 @@ It is also possible to build Android Applications in C, C++, and C# (along with 
 
 The options are either not suggested for beginner developers, or not yet used extensively in production applications. This curriculum may eventually cover such alternatives however.
 
-**[Previous Lesson](Preliminaries.md)**<br>
-**[Next Lesson](XML.md)**<br>
+**[Previous Lesson](curriculum-en/one/one_one/Preliminaries.md)**<br>
+**[Next Lesson](curriculum-en/one/one_three/XML.md)**<br>

@@ -2,7 +2,7 @@
 
 ### Table of Contents
 **[Part 1: Preliminaries](curriculum-en/one/one_one/Preliminaries.md)**<br>
-**[Part 2: Android Project And Application Structure](DirectoryOverview.md)**<br>
+**[Part 2: Android Project And Application Structure](curriculum-en/two/two_one/DirectoryOverview.md)**<br>
 **[Part 3: In Progress]()**<br>
 **[Part 4: In Progress]()**<br>
 **[Part 4: In Progress]()**<br>

@@ -17,12 +17,11 @@ By default, AS generates a Gradle (discussed soon) Module called "app" each time
 **Exercise:** Before proceeding, open AS and select File -> New -> New Project. Then select "Add No Activity" -> Next. In the name field, enter HelloWorld. Then select your preferred language and hit Finish. Expect to wait some time while AS configures and builds the new project.
 
 ### Table of Contents
-**[Java And Kotlin Source Files](Activity.md)**<br>
-**[Resources And Layouts](Layouts.md)**<br>
-**[The AndroidManifest Configuration File](AndroidManifest.md)**<br>
-**[The Gradle Build Tool](Gradle.md)**<br>
-**[Deploying An Application](Deployment.md)**<br>
-**[The Gradle Build Tool](Gradle.md)**<br>
+**[Java And Kotlin Source Files](curriculum-en/two/two_two/Activity.md)**<br>
+**[Resources And Layouts](curriculum-en/two/two_three/Layouts.md)**<br>
+**[The AndroidManifest Configuration File](curriculum-en/two/two_four/AndroidManifest.md)**<br>
+**[The Gradle Build Tool](curriculum-en/two/two_five/Gradle.md)**<br>
+**[Deploying An Application](curriculum-en/two/two_six/Deployment.md)**<br>
 
 
 

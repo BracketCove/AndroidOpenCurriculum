@@ -33,5 +33,5 @@ Without worrying about what everything else means, understand that the text with
 
 R itself is a file which is generated when you "build" your Android project. It contains a dynamically generated list of the "Resources" which your application can refer to within Java/Kotlin source files. 
 
-**[Previous Lesson](Activity.md)**<br>
-**[Next Lesson](AndroidManifest.md)**<br>
+**[Previous Lesson](curriculum-en/two/two_two/Activity.md)**<br>
+**[Next Lesson](curriculum-en/two/two_four/AndroidManifest.md)**<br>
