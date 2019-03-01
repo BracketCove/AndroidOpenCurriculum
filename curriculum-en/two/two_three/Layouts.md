@@ -20,7 +20,9 @@ We will look at building layouts another time, but it is important to note that 
 **Note:** By convention, the Java programming language uses the word "Method" to refer to what most other languages refer to as a "Function"; including Kotlin. If you are working in Java, please assume each time the word Function is used, it is a synonym (different word for the same thing) for Method.
 
 **Exercise:** Open up MainActivity from your main package. Depending on how AS is configured, you should at minimum see the following code block in the generated file:
-    
+
+Kotlin:
+
     class MainActivity : AppCompatActivity() {
     
         override fun onCreate(savedInstanceState: Bundle?) {
@@ -28,6 +30,16 @@ We will look at building layouts another time, but it is important to note that 
             setContentView(R.layout.activity_main)
         }
     }
+
+Java:
+
+    public class CalendarActivity extends Activity {
+    
+         protected void onCreate(Bundle savedInstanceState) {
+             super.onCreate(savedInstanceState);
+             setContentView(R.layout.activity_main);
+         }
+     }
 
 Without worrying about what everything else means, understand that the text within the brackets of the setContentView(...) function, must refer to the correct layout file. Note that in R.layout.activity_main, layout refers to the "layout" folder within src/main/res, and activity_main is the actual name of the layout file within this folder. 
 
