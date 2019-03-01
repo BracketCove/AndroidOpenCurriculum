@@ -7,7 +7,7 @@ In this part of the curriculum, we will discuss what things are required to begi
 * Setting up a Device or Emulator to test deploy an application
 
 ### Table of Contents
-**[Primary Languages](curriculum-en/one/one_two/Primary_Languages.md)**<br>
-**[XML - Extensible Markup Language](curriculum-en/one/one_three/XML.md)**<br>
-**[IDE - Integrated Development Environment](curriculum-en/one/one_four/IDE.md)**<br>
-**[Devices And Emulators](curriculum-en/one/one_five/DevicesAndEmulators.md)**<br>
+**[Primary Languages](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/one/one_two/Primary_Languages.md)**<br>
+**[XML - Extensible Markup Language](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/one/one_three/XML.md)**<br>
+**[IDE - Integrated Development Environment](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/one/one_four/IDE.md)**<br>
+**[Devices And Emulators](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/one/one_five/DevicesAndEmulators.md)**<br>

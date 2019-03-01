@@ -15,5 +15,5 @@ Emulators can require a lot of configuration for smooth operation. You will like
 
 Many Android mobile devices can be configured for debugging via a USB connection. Please visit [this page](https://developer.android.com/studio/debug/dev-options.html) for a detailed explanation of this process.
 
-**[Previous Lesson](curriculum-en/one/one_four/IDE.md)**<br>
-**[Next Lesson](curriculum-en/two/two_one/DirectoryOverview.md)**<br>
+**[Previous Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/one/one_four/IDE.md)**<br>
+**[Next Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/two/two_one/DirectoryOverview.md)**<br>

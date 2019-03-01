@@ -30,5 +30,5 @@ Since XML does not restrict you to using any particular names (however, the Andr
 
 For example, as we will see with Layouts (which form the basis of building a User Interface on Android), the tools namespace can be used to add "design-time" data to your layouts, to preview what they look like without having to compile and deploy the application:
 
-**[Previous Lesson](curriculum-en/one/one_two/Primary_Languages.md)**<br>
-**[Next Lesson](curriculum-en/one/one_four/IDE.md)**<br>
+**[Previous Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/one/one_two/Primary_Languages.md)**<br>
+**[Next Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/one/one_four/IDE.md)**<br>

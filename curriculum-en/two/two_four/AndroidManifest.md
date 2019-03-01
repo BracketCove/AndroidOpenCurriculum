@@ -57,5 +57,5 @@ Ensure that it is spelled correctly, but do not worry if it is showing up as an 
     </activity>
     <activity android:name=".PreferencesActivity"/>
 
-**[Previous Lesson](curriculum-en/two/two_three/Layouts.md)**<br>
-**[Next Lesson](curriculum-en/two/two_five/Gradle.md)**<br>
+**[Previous Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/two/two_three/Layouts.md)**<br>
+**[Next Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/two/two_five/Gradle.md)**<br>

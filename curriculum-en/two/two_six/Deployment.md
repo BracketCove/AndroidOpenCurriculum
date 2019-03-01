@@ -24,4 +24,4 @@ Select your device, and click OK. With luck, a very useless, but very deployable
 
 Assuming you have configured an Emulator, select the green Run button in the Actions column within the AVD Manager, and expect to wait several minutes. Once your Emulator loads, you may now select Run -> Run 'app' (in the main AS window). Your Emulator should be visible in the Deploy Target Dialogue now. Select it and click "OK" to deploy your application. Congratulations!
 
-**[Previous Lesson](curriculum-en/two/two_five/Gradle.md)**<br>
+**[Previous Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/two/two_five/Gradle.md)**<br>

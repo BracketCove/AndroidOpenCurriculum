@@ -40,8 +40,8 @@ In the next few lessons, we will look at the other directories present within th
 - Using the wrong Layout file for the new Activity due to a copy/paste error
 - Not adding an entry for the Activity within the AndroidManifest.xml file.
 
-**[Previous Lesson](curriculum-en/two/two_one/DirectoryOverview.md)**<br>
-**[Next Lesson](curriculum-en/two/two_three/Layouts.md)**<br>
+**[Previous Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/two/two_one/DirectoryOverview.md)**<br>
+**[Next Lesson](https://github.com/BracketCove/AndroidOpenCurriculum/tree/master/curriculum-en/two/two_three/Layouts.md)**<br>
 
 
 
