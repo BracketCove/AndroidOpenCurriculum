@@ -1,3 +1,15 @@
+## Translations:
+Currently, translations of the curriculum will exist in different branches in order to avoid bloating the main repository too bad. The naming convention for these branches is as follows:
+curriculum-<two character language code>
+
+For example:
+"curriculum-fr" - French
+"curriculum-es" - Spanish
+
+For more information, search ISO 639-1 for the two-character code of your particular language.
+
+Please include a README in the root folder of the branch, which should be a translation of the original README from the master branch. However, do not translate the Contribution_Guide or Contributors; I do not wish to maintain those files in different languages. 
+
 ## Style Guide:
 
 ### Be Impersonal
