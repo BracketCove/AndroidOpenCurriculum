@@ -7,7 +7,7 @@
 My motivation for spearheading this project is to give back to the community which has provided me with a FREE, BETTER 
 QUALITY education, than what I received in my one semester of post-secondary eduction in Canada.
   **Contact:**
-  [Regular Updates on Content](https://www.facebook.com/wiseassblog/)
-  [Livestream/Content Announcements](https://twitter.com/wiseass301)
-  [Poorly Maintained Personal Blog](http://wiseassblog.com/)
-  [Linkedin Page](https://www.linkedin.com/in/ryan-kay-808388114)
+  <br>[Regular Updates on Content](https://www.facebook.com/wiseassblog/)</br>
+  <br>[Livestream/Content Announcements](https://twitter.com/wiseass301)</br>
+  <br>[Poorly Maintained Personal Blog](http://wiseassblog.com/)</br>
+  <br>[Linkedin Page](https://www.linkedin.com/in/ryan-kay-808388114)</br>
