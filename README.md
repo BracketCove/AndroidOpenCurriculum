@@ -2,7 +2,7 @@
 
 ### Table des matières
 
-**[Part 1: Préambule](AndroidOpenCurriculum/curriculum-fr/one/one_one/Preliminaries.md)**<br>
+**[Part 1: Préambule](https://github.com/davidkathoh/AndroidOpenCurriculum/blob/curriculum-fr/curriculum-fr/one/one_one/Preliminaries.md)**<br>
 **[Part 2: Structure d'un projet Android]()**<br>
 **[Part 3: En cours]()**<br>
 **[Part 4: En cours]()**<br>
